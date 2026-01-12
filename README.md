@@ -30,7 +30,6 @@ Traditional recommendation systems often rely on a single factor such as similar
 - **Hybrid Enhancement:** Popularity & Recency-based re-ranking  
 - **UI Framework:** Streamlit  
 
-⚠️ This project does **NOT** use collaborative filtering, as no user–item interaction data is involved.
 
 ---
 📦 Dataset & Large Files
